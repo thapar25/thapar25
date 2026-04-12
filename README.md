@@ -13,7 +13,7 @@
 > ~ *me, everyday*
 ---
 
-## Active builds
+## Active Builds
 
 | Project | What it is |
 |---|---|
@@ -24,18 +24,18 @@
 
 ---
 
-## Standing on great shoulders
+## Standing on Great Shoulders
 
 
 **AI & LLMs**
 
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-7F77DD?style=flat-square&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-6B7280?style=flat-square&logo=openrouter&logoColor=white)](https://openrouter.ai)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)](https://groq.com)
-[![OpenRouter](https://img.shields.io/badge/OpenRouter-6B7280?style=flat-square&logo=openai&logoColor=white)](https://openrouter.ai)
 [![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-FF6B6B?style=flat-square)](https://phoenix.arize.com)
-[![Jaeger](https://img.shields.io/badge/Jaeger-66CFE1?style=flat-square)](https://jaegertracing.io)
+[![Jaeger](https://img.shields.io/badge/Jaeger-66CFE1?style=flat-square&logo=jaeger&logoColor=white)](https://jaegertracing.io)
 
 **Dev**
 
@@ -45,7 +45,7 @@
 [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&labelColor=261230)](https://docs.astral.sh/ruff)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://postman.com)
 
-**Infra & data**
+**Infra & Data**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
@@ -54,12 +54,12 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
 [![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
 
-**Homelab & productivity**
+**Homelab & Productivity**
 
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
 [![Immich](https://img.shields.io/badge/Immich-4250AF?style=flat-square&logo=immich&logoColor=white)](https://immich.app)
 [![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white)](https://syncthing.net)
 [![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)](https://portainer.io)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so)
 
