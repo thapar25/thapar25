@@ -18,8 +18,8 @@
 | Project | What it is |
 |---|---|
 | 👩‍💻 **Luna.AI** | Personal voice AI. LangGraph, Whisper STT, Notion + GCal agents. Runs on my homelab. |
-| ✍️ **[thapar.logs](https://thapar25.github.io)** | Jekyll blog written in Obsidian. Where I document things I've overengineered. |
-| 🚀 **[xlr8labs](https://landing.xlr8labs.in)** | AI infrastructure venture. Building tools for developers who'd rather own their stack. |
+| ✍️ **[thapar.logs](https://thapar25.github.io?utm_source=github)** | Jekyll blog written in Obsidian. Where I document things I've overengineered. |
+| 🚀 **[xlr8labs](https://landing.xlr8labs.in?utm_source=github)** | AI infrastructure venture. Building tools for developers who'd rather own their stack. |
 | 🏠 **Homelab** | Repurposed machines running Immich, n8n, Tailscale, Portainer, and everything else. |
 
 ---
