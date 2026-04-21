@@ -65,4 +65,4 @@
 
 ---
 
-*Find me at **[thapar.logs](https://thapar25.github.io)** · Someday the agents will handle the email spam, the WhatsApp group chats, and everything else that isn't urgent, so Murphy and I can finally touch grass with zero notifications. Totally achievable. Definitely not overengineered.*
+*Find me at **[thapar.logs](https://thapar25.github.io?utm_source=github)** · Someday the agents will handle the email spam, the WhatsApp group chats, and everything else that isn't urgent, so Murphy and I can finally touch grass with zero notifications. Totally achievable. Definitely not overengineered.*
