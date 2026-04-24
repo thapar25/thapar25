@@ -1,7 +1,6 @@
 # Pulkit Thapar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkit-thapar)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=plastic&logo=x&logoColor=white)](https://twitter.com/pulkitthapar)
+
 [![Say Hi!](https://img.shields.io/badge/Say_Hi!-👋-1f2937?style=plastic&logo=formspree&logoColor=E5122E&labelColor=ffffff)](https://thapar25.github.io/contact?utm_source=github)
 
 **Building LLM-powered systems by day, self-hosting everything by night.**
