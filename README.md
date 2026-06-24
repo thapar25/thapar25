@@ -10,7 +10,7 @@
 🐶 Murphy's human  
  
 
-> "The greatest invention of the decade: **AI**r fryer"
+> "The greatest invention of the decade: Air fryer"
 > 
 > ~ *me, everyday*
 ---
